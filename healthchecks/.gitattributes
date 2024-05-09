@@ -1,0 +1,5 @@
+# Automatically normalize line endings to \n when checking in text files.
+* text=auto
+
+# Enforce that shell scripts always use newline endings.
+*.sh text eol=lf
