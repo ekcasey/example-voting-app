@@ -1,0 +1,2 @@
+# Enforce that shell scripts always use newline endings.
+*.sh text eol=lf
